@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "tccpylus"
+version = "0.1.0"
+description = "tccplus wrapper in wxPython"
+authors = ["Ivan Cafiero <ivancafiero@gmail.com>"]
+license = "Apache GPL v3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+wxpython = "^4.2.0"
+py2app = "^0.28.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
