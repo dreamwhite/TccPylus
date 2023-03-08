@@ -24,6 +24,7 @@ Just as a double-check, open `System Settings` application, under `Privacy & Sec
 - [ ] Improve the GUI quality with some images or something like that ._.
 - [ ] Implement using GitHub Action the building of the `.app` using `py2app`
 - [ ] Use a custom `Info.plist` which will be parsed by `py2app` using GitHub Action
+- [ ] Add screenshots about the application usage
 
 # Credits
 
